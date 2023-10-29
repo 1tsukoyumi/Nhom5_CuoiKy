@@ -1,0 +1,4 @@
+1,Ho Nguyen Thanh,nguyenthanh@gmail.com,20,Bien Hoa,10,Male,Technology,Manager,40000
+2,Tran Minh Vu,minhvu@gmail.com,20,Bien Hoa,20,Male,Technology,CEO,180000
+3,Dao Le Ngoc Anh,ngocanh@gmail.com,20,Bien Hoa,20,Female,Technology,Founder,100000
+4,a,a@gmail.com,19,Bien Hoa,14,Male,Technology,CEO,140000
